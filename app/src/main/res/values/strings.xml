@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">snowtam</string>
     <string name="title_activity_splash">splash</string>
+    <string name="Aireport">Aireport</string>
+    <string name="dateandtime">date and time</string>
+    <string name="runway">Runway</string>
+    <string name="mapkey" translatable="false">AIzaSyCpdIbSsMyIvuhPZF295EJvzguZT1gOkxg</string>
 </resources>
